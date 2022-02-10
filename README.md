@@ -8,6 +8,7 @@ Computer Science: Information Technology Management
 - Devops engineer 
 - Technical Consultation 
 - Managing Servers & Datacenters
+
  👋 Hi, I’m Morteza Golnezhad Ph.D Information technology management
 - 👀 I’m interested in Data science, Computer vision, IoT and Generally Information technology. 
 - 🌱 I’m currently learning Computer vision, open cv
