@@ -15,7 +15,7 @@ Computer Science: Information Technology Management
 - 💞️ I’m looking to collaborate on data science and computer vision
 - 📫 How to reach me by my email address: 
 - m.golnezhad@gmail.com
-- - mgolnezhad@nus.ac.ir
+- - mgolnezhad@tvu.ac.ir
 - +989126944811
 
 
